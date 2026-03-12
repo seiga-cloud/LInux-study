@@ -28,9 +28,3 @@ Example: useradd, groupadd
 ### systemctl
 Service management
 Example: syatemctl start. stop
-
--File permission
--User management
--Process management
--Systemctl
--Cron
